@@ -4,6 +4,3 @@ venv-farm
 
 # pycache
 **/__pycache__/
-
-# test files
-backend/src/mongo_test
