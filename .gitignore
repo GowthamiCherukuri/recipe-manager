@@ -1,2 +1,9 @@
 # Environments
 venv-farm
+.env
+
+# pycache
+**/__pycache__/
+
+# test files
+backend/src/mongo_test
