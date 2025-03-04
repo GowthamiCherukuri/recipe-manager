@@ -1,2 +1,6 @@
 # Environments
 venv-farm
+.env
+
+# pycache
+**/__pycache__/
